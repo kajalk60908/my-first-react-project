@@ -1,0 +1,11 @@
+.photo1 {
+ background-image: url("https://wallpaperset.com/w/full/3/3/8/145984.jpg");
+height: 1000px;
+width: 100%;
+}
+.photo1 img {
+    height: 400px;
+    width: 59%;
+    margin: auto;
+    margin-top: 300px;
+}
